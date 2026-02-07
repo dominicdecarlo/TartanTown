@@ -1,6 +1,6 @@
 # 🐕 Scotty's Campus Tycoon
 
-**A tiny campus management sim in under 13KB!**
+**A tiny campus management sim in under 15KB!**
 
 ## 🎮 Play
 
@@ -26,7 +26,7 @@ Build a thriving university campus for Scotty dogs! Manage dorms, labs, shops, a
 
 ### Win Condition
 
-Help Scotties complete **8 lab visits** + **8 shop visits** to graduate! 🎓
+Help Scotties complete **16 Lab Visits** to graduate! 🎓
 
 ## 🔧 Technical Highlights
 
@@ -44,4 +44,5 @@ Help Scotties complete **8 lab visits** + **8 shop visits** to graduate! 🎓
 
 ---
 
-*Built for JS13K 2026* 🏆
+*Built for TartanHacks 2026 🏆
+
